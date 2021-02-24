@@ -2,6 +2,15 @@
 // Created by ZSins7588 on 2021/2/24.
 //
 
+int count(int i) {
+    int ans = 0;
+    while (i != 0) {
+        if (i % 2 == 1) ans++;
+        i /= 2;
+    }
+    return ans;
+}
+
 class Solution {
 public:
     vector <string> readBinaryWatch(int num) {
