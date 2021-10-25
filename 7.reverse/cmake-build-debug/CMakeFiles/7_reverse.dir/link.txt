@@ -1,0 +1,3 @@
+"C:\SoftWare\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\7_reverse.dir/objects.a
+C:\SoftWare\MinGW\mingw64\bin\ar.exe cr CMakeFiles\7_reverse.dir/objects.a @CMakeFiles\7_reverse.dir\objects1.rsp
+C:\SoftWare\MinGW\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\7_reverse.dir/objects.a -Wl,--no-whole-archive -o 7_reverse.exe -Wl,--out-implib,lib7_reverse.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\7_reverse.dir\linklibs.rsp
