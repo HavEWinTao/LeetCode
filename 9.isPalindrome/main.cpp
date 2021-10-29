@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+//O(n)x的位数  O(logn)x的大小
 class Solution {
 public:
     bool isPalindrome(int x) {
