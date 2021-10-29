@@ -1,0 +1,3 @@
+"C:\SoftWare\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\10_isMatch.dir/objects.a
+C:\SoftWare\MinGW\mingw64\bin\ar.exe cr CMakeFiles\10_isMatch.dir/objects.a @CMakeFiles\10_isMatch.dir\objects1.rsp
+C:\SoftWare\MinGW\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\10_isMatch.dir/objects.a -Wl,--no-whole-archive -o 10_isMatch.exe -Wl,--out-implib,lib10_isMatch.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\10_isMatch.dir\linklibs.rsp
