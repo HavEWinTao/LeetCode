@@ -2,6 +2,9 @@
 #include <vector>
 using namespace std;
 
+//底*高，为了计算最大容积，如果底变小的话高度需要变大
+//用左右两个指针，向高度大的方向移动
+//每次移动都要进行计算容积
 class Solution {
 public:
     int maxArea(vector<int> &height) {
