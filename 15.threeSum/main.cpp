@@ -81,6 +81,7 @@ public:
         for (it = temp.begin(); it != temp.end(); it++) {
             ans.push_back(*it);
         }
+        delete[]table;
         return ans;
     }
 };
