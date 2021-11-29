@@ -1,6 +1,11 @@
 #include <iostream>
+<<<<<<< HEAD
+#include <string>
+#include <vector>
+=======
 #include <vector>
 #include <string>
+>>>>>>> origin/master
 using namespace std;
 
 class Solution {
@@ -40,6 +45,11 @@ public:
 
 int main() {
     Solution solution;
+<<<<<<< HEAD
+    string digits = "2";
+    vector<string> ans = solution.letterCombinations(digits);
+=======
     vector<string> ans = solution.letterCombinations("abc");
+>>>>>>> origin/master
     return 0;
 }
