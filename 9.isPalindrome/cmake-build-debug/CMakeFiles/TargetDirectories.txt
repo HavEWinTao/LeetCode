@@ -1,3 +1,0 @@
-C:/Data/LeetCode/9.isPalindrome/cmake-build-debug/CMakeFiles/9_isPalindrome.dir
-C:/Data/LeetCode/9.isPalindrome/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Data/LeetCode/9.isPalindrome/cmake-build-debug/CMakeFiles/rebuild_cache.dir

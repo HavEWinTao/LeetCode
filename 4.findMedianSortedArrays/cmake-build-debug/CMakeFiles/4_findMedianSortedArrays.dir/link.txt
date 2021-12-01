@@ -1,3 +1,0 @@
-D:\Software\JetBrains\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\4_findMedianSortedArrays.dir/objects.a
-D:\Software\MinGW\mingw64\bin\ar.exe cr CMakeFiles\4_findMedianSortedArrays.dir/objects.a @CMakeFiles\4_findMedianSortedArrays.dir\objects1.rsp
-D:\Software\MinGW\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\4_findMedianSortedArrays.dir/objects.a -Wl,--no-whole-archive -o 4_findMedianSortedArrays.exe -Wl,--out-implib,lib4_findMedianSortedArrays.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\4_findMedianSortedArrays.dir\linklibs.rsp

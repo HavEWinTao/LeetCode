@@ -1,3 +1,0 @@
-"C:\SoftWare\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\8_myAtoi.dir/objects.a
-C:\SoftWare\MinGW\mingw64\bin\ar.exe cr CMakeFiles\8_myAtoi.dir/objects.a @CMakeFiles\8_myAtoi.dir\objects1.rsp
-C:\SoftWare\MinGW\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\8_myAtoi.dir/objects.a -Wl,--no-whole-archive -o 8_myAtoi.exe -Wl,--out-implib,lib8_myAtoi.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\8_myAtoi.dir\linklibs.rsp

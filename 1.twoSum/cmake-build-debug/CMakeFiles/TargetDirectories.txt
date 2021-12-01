@@ -1,3 +1,0 @@
-C:/Data/LeetCode/1.twoSum/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Data/LeetCode/1.twoSum/cmake-build-debug/CMakeFiles/1_twoSum.dir
-C:/Data/LeetCode/1.twoSum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
