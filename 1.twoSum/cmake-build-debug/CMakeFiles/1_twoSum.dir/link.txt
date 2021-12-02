@@ -1,3 +1,0 @@
-"C:\SoftWare\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\1_twoSum.dir/objects.a
-C:\SoftWare\MinGW\mingw64\bin\ar.exe cr CMakeFiles\1_twoSum.dir/objects.a @CMakeFiles\1_twoSum.dir\objects1.rsp
-C:\SoftWare\MinGW\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\1_twoSum.dir/objects.a -Wl,--no-whole-archive -o 1_twoSum.exe -Wl,--out-implib,lib1_twoSum.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1_twoSum.dir\linklibs.rsp

@@ -1,3 +1,0 @@
-C:/Data/LeetCode/2.addTwoNumbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Data/LeetCode/2.addTwoNumbers/cmake-build-debug/CMakeFiles/2_addTwoNumbers.dir
-C:/Data/LeetCode/2.addTwoNumbers/cmake-build-debug/CMakeFiles/edit_cache.dir
