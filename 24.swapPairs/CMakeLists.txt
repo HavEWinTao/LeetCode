@@ -3,5 +3,4 @@ project(24_swapPairs)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(24_swapPairs
-        main.cpp)
+add_executable(24_swapPairs main.cpp)
