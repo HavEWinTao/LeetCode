@@ -27,6 +27,8 @@ public:
         getNext(needle, next);
         int i = 0, j = 0;
         while (i < m && j < n) {
+            //j变成-1就是匹配失败，继续匹配
+            //所以j++变成0从needle的第0个开始判断，i++从haystack的下一个字母开始判断
             if (j == -1 || haystack[i] == needle[j]) {
                 i++;
                 j++;
@@ -44,8 +46,8 @@ public:
 
 int main() {
     Solution solution;
-    string haystack = "";
-    string needle = "a";
+    string haystack = "hello";
+    string needle = "ll";
     int ans = solution.strStr(haystack, needle);
     return 0;
 }
