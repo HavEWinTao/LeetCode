@@ -2,6 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/101.isSymmetric/101.isSymmetric.iml" filepath="$PROJECT_DIR$/101.isSymmetric/101.isSymmetric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/104.maxDepth/104.maxDepth.iml" filepath="$PROJECT_DIR$/104.maxDepth/104.maxDepth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/136.singleNumber/136.singleNumber.iml" filepath="$PROJECT_DIR$/136.singleNumber/136.singleNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2039.networkBecomesIdle/2039.networkBecomesIdle.iml" filepath="$PROJECT_DIR$/2039.networkBecomesIdle/2039.networkBecomesIdle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36.MinStack/36.MinStack.iml" filepath="$PROJECT_DIR$/36.MinStack/36.MinStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/386.lexicalOrder/386.lexicalOrder.iml" filepath="$PROJECT_DIR$/386.lexicalOrder/386.lexicalOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/53.maxSubArray/53.maxSubArray.iml" filepath="$PROJECT_DIR$/53.maxSubArray/53.maxSubArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6020.divideArray/6020.divideArray.iml" filepath="$PROJECT_DIR$/6020.divideArray/6020.divideArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6021.longmaximumSubsequenceCount/6021.longmaximumSubsequenceCount.iml" filepath="$PROJECT_DIR$/6021.longmaximumSubsequenceCount/6021.longmaximumSubsequenceCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6022.halveArray/6022.halveArray.iml" filepath="$PROJECT_DIR$/6022.halveArray/6022.halveArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6023.minimumWhiteTiles/6023.minimumWhiteTiles.iml" filepath="$PROJECT_DIR$/6023.minimumWhiteTiles/6023.minimumWhiteTiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/606.tree2str/606.tree2str.iml" filepath="$PROJECT_DIR$/606.tree2str/606.tree2str.iml" />
+      <module fileurl="file://$PROJECT_DIR$/70.climbStairs/70.climbStairs.iml" filepath="$PROJECT_DIR$/70.climbStairs/70.climbStairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/94.inorderTraversal/94.inorderTraversal.iml" filepath="$PROJECT_DIR$/94.inorderTraversal/94.inorderTraversal.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
     </modules>
   </component>
