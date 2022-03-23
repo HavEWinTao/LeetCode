@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/141.hasCycle/141.hasCycle.iml" filepath="$PROJECT_DIR$/141.hasCycle/141.hasCycle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/160.getIntersectionNode/160.getIntersectionNode.iml" filepath="$PROJECT_DIR$/160.getIntersectionNode/160.getIntersectionNode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/169.majorityElement/169.majorityElement.iml" filepath="$PROJECT_DIR$/169.majorityElement/169.majorityElement.iml" />
-      <module fileurl="file://$PROJECT_DIR$/2038.winnerOfGame/2038.winnerOfGame.iml" filepath="$PROJECT_DIR$/2038.winnerOfGame/2038.winnerOfGame.iml" />
-      <module fileurl="file://$PROJECT_DIR$/338.countBits/338.countBits.iml" filepath="$PROJECT_DIR$/338.countBits/338.countBits.iml" />
-      <module fileurl="file://$PROJECT_DIR$/440.findKthNumber/440.findKthNumber.iml" filepath="$PROJECT_DIR$/440.findKthNumber/440.findKthNumber.iml" />
-      <module fileurl="file://$PROJECT_DIR$/448.findDisappearedNumbers/448.findDisappearedNumbers.iml" filepath="$PROJECT_DIR$/448.findDisappearedNumbers/448.findDisappearedNumbers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/461.hammingDistance/461.hammingDistance.iml" filepath="$PROJECT_DIR$/461.hammingDistance/461.hammingDistance.iml" />
-      <module fileurl="file://$PROJECT_DIR$/543.diameterOfBinaryTree/543.diameterOfBinaryTree.iml" filepath="$PROJECT_DIR$/543.diameterOfBinaryTree/543.diameterOfBinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/206.reverseList/206.reverseList.iml" filepath="$PROJECT_DIR$/206.reverseList/206.reverseList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/226.invertTree/226.invertTree.iml" filepath="$PROJECT_DIR$/226.invertTree/226.invertTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/234.isPalindrome/234.isPalindrome.iml" filepath="$PROJECT_DIR$/234.isPalindrome/234.isPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/617.mergeTrees/617.mergeTrees.iml" filepath="$PROJECT_DIR$/617.mergeTrees/617.mergeTrees.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
