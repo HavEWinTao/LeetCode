@@ -5,7 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/206.reverseList/206.reverseList.iml" filepath="$PROJECT_DIR$/206.reverseList/206.reverseList.iml" />
       <module fileurl="file://$PROJECT_DIR$/226.invertTree/226.invertTree.iml" filepath="$PROJECT_DIR$/226.invertTree/226.invertTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/234.isPalindrome/234.isPalindrome.iml" filepath="$PROJECT_DIR$/234.isPalindrome/234.isPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34.searchRange/34.searchRange.iml" filepath="$PROJECT_DIR$/34.searchRange/34.searchRange.iml" />
       <module fileurl="file://$PROJECT_DIR$/347.topKFrequent/347.topKFrequent.iml" filepath="$PROJECT_DIR$/347.topKFrequent/347.topKFrequent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/39.combinationSum/39.combinationSum.iml" filepath="$PROJECT_DIR$/39.combinationSum/39.combinationSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/46.permute/46.permute.iml" filepath="$PROJECT_DIR$/46.permute/46.permute.iml" />
       <module fileurl="file://$PROJECT_DIR$/617.mergeTrees/617.mergeTrees.iml" filepath="$PROJECT_DIR$/617.mergeTrees/617.mergeTrees.iml" />
       <module fileurl="file://$PROJECT_DIR$/64.minPathSum/64.minPathSum.iml" filepath="$PROJECT_DIR$/64.minPathSum/64.minPathSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/661.imageSmoother/661.imageSmoother.iml" filepath="$PROJECT_DIR$/661.imageSmoother/661.imageSmoother.iml" />
