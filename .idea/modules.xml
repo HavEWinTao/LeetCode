@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/467.findSubstringInWraproundString/467.findSubstringInWraproundString.iml" filepath="$PROJECT_DIR$/467.findSubstringInWraproundString/467.findSubstringInWraproundString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/675.cutOffTree/675.cutOffTree.iml" filepath="$PROJECT_DIR$/675.cutOffTree/675.cutOffTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/965.isUnivalTree/965.isUnivalTree.iml" filepath="$PROJECT_DIR$/965.isUnivalTree/965.isUnivalTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
     </modules>
   </component>
