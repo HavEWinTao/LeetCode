@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1021.removeOuterParentheses/1021.removeOuterParentheses.iml" filepath="$PROJECT_DIR$/1021.removeOuterParentheses/1021.removeOuterParentheses.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1022.sumRootToLeaf/1022.sumRootToLeaf.iml" filepath="$PROJECT_DIR$/1022.sumRootToLeaf/1022.sumRootToLeaf.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1981.minimizeTheDifference/1981.minimizeTheDifference.iml" filepath="$PROJECT_DIR$/1981.minimizeTheDifference/1981.minimizeTheDifference.iml" />
-      <module fileurl="file://$PROJECT_DIR$/450.deleteNode/450.deleteNode.iml" filepath="$PROJECT_DIR$/450.deleteNode/450.deleteNode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/468.validIPAddress/468.validIPAddress.iml" filepath="$PROJECT_DIR$/468.validIPAddress/468.validIPAddress.iml" />
-      <module fileurl="file://$PROJECT_DIR$/473.makesquare/473.makesquare.iml" filepath="$PROJECT_DIR$/473.makesquare/473.makesquare.iml" />
-      <module fileurl="file://$PROJECT_DIR$/699.fallingSquares/699.fallingSquares.iml" filepath="$PROJECT_DIR$/699.fallingSquares/699.fallingSquares.iml" />
-      <module fileurl="file://$PROJECT_DIR$/829.consecutiveNumbersSum/829.consecutiveNumbersSum.iml" filepath="$PROJECT_DIR$/829.consecutiveNumbersSum/829.consecutiveNumbersSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Offer2.114.alienOrder/Offer2.114.alienOrder.iml" filepath="$PROJECT_DIR$/Offer2.114.alienOrder/Offer2.114.alienOrder.iml" />
     </modules>
   </component>
 </project>
