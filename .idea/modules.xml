@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1037.isBoomerang/1037.isBoomerang.iml" filepath="$PROJECT_DIR$/1037.isBoomerang/1037.isBoomerang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/497.pick/497.pick.iml" filepath="$PROJECT_DIR$/497.pick/497.pick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/926.minFlipsMonoIncr/926.minFlipsMonoIncr.iml" filepath="$PROJECT_DIR$/926.minFlipsMonoIncr/926.minFlipsMonoIncr.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
     </modules>
   </component>
