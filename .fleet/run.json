@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "command",
+            "name": "run",
+            "program": "/usr/bin/java",
+            "args": ["$FILE$"],
+        },
+        {
+            "type": "command",
+            "name": "build",
+            "program": "/usr/bin/javac",
+            "args": ["$FILE$"],
+        }
+    ]
+}

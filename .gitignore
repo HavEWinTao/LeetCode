@@ -1,6 +1,3 @@
-*/.idea
-*/cmake-build-debug
-out
-*/*.iml
-*/*.class
-.idea
+**/*.class
+.DS_Store
+**/.DS_Store
