@@ -22,7 +22,7 @@ func LIS(arr []int) []int {
 			dp[i] = ans
 			continue
 		}
-		//在tail中找到第一个比nums[i]小的，返回下标
+		//在tail中找到第一个比nums[i]大的，返回下标
 		idx := sort.Search(ans, func(j int) bool {
 			if tail[j] < arr[i] {
 				return false

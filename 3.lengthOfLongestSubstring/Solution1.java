@@ -16,7 +16,6 @@ class Solution1 {
                 ans = Math.max(ans, i - idx.get(c));
                 last = idx.get(c);
                 idx.put(c, i);
-
             }
         }
         return ans;

@@ -19,7 +19,7 @@ func LIS(arr []int) int {
 			ans++
 			continue
 		}
-		//在tail中找到第一个比nums[i]小的，返回下标
+		//在tail中找到第一个比nums[i]大的，返回下标
 		idx := sort.Search(ans, func(j int) bool {
 			if tail[j] < arr[i] {
 				return false
@@ -50,6 +50,11 @@ func main() {
 	}
 	{
 		nums := []int{4, 10, 4, 3, 8, 9}
+		ret := LIS(nums)
+		fmt.Printf("%+v\n", ret)
+	}
+	{
+		nums := []int{5, 10, 15, 9}
 		ret := LIS(nums)
 		fmt.Printf("%+v\n", ret)
 	}
